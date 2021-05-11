@@ -1,4 +1,15 @@
-MIT License
+# Articles
+All the files inside the `posts` directory are licensed under CC BY 4.0. The attribution requirement is only met when:
+
+1. The canonical link is directed towards the original article.
+2. The following message is displayed above and below the article:
+   
+   `This article was originally published on <a href="https://philotheos.de/">Philotheos</a>.`
+
+# Other files
+Files not mentioned in previous paragraphs are licensed under MIT License.
+
+# MIT License
 
 Copyright (c) 2021 philotheosblog
 
