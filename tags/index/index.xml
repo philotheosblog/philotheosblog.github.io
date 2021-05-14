@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Philotheos</title>
+    <link>https://philotheos.de/tags/index/</link>
+    <description>Recent content in index on Philotheos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://philotheos.de/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts</title>
+      <link>https://philotheos.de/thoughts/</link>
+      <pubDate>Thu, 08 Apr 2021 08:50:00 +0000</pubDate>
+      
+      <guid>https://philotheos.de/thoughts/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
+
