@@ -174,3 +174,11 @@ time {
 #footer > .footnote {
     text-align: center;
 }
+
+/* Sidenotes */
+aside {
+    float:right;
+    width: 12em;
+    margin-right: 13em;
+    font-size: 75%;
+}
