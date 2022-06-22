@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turretin on Philotheos</title>
+    <link>https://philotheos.de/tags/turretin/</link>
+    <description>Recent content in Turretin on Philotheos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Nov 2021 20:00:48 +0000</lastBuildDate><atom:link href="https://philotheos.de/tags/turretin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turretin&#39;s Citation of Bellarmine on Scripture, Corrected</title>
+      <link>https://philotheos.de/thoughts/turretin-citation-bellarmine/</link>
+      <pubDate>Tue, 09 Nov 2021 20:00:48 +0000</pubDate>
+      
+      <guid>https://philotheos.de/thoughts/turretin-citation-bellarmine/</guid>
+      
+      <description>&lt;h1 id=&#34;turretins-citation-of-bellarmine-on-scripture-corrected&#34;&gt;Turretin&amp;rsquo;s Citation of Bellarmine on Scripture, Corrected&lt;/h1&gt;
+&lt;p&gt;If you find yourself seeking to locate the citation of Bellarmine given by Turretin&amp;rsquo;s editors regarding the distinction of Scripture&amp;rsquo;s authority &amp;ldquo;as to itself&amp;rdquo; (quoad se) and &amp;ldquo;as to us&amp;rdquo; (quoad nos), you may encounter some difficulty. Both the publication date and chapter title are incorrect.&lt;/p&gt;
+&lt;p&gt;The original citation given in &lt;em&gt;Institutes&lt;/em&gt; vol. 1, p86, is:&lt;/p&gt;
+&lt;p&gt;Bellarmine (&amp;ldquo;De conciliis Auctoritate,&amp;rdquo; 2.12 in &lt;em&gt;Opera&lt;/em&gt; [1857], 2:61)&lt;/p&gt;
+&lt;p&gt;But the book is not &amp;ldquo;de&amp;rdquo; the &lt;em&gt;councils&lt;/em&gt;, but the &lt;em&gt;authority&lt;/em&gt; of the councils. A more reliable citation seems to be:&lt;/p&gt;
+&lt;p&gt;Bellarmino, &lt;em&gt;Opera Omnia&lt;/em&gt;, Vol. 2, Book 2, &amp;ldquo;De Conciliorum Auctoritate&amp;rdquo;, Chapter 12, (Italy: Edente Natale Battezzati, 1858), p61.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s on Google Books:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.co.uk/books/edition/Disputationum_Roberti_Bellarmini_politan/bKZZAAAAMAAJ?hl=en&amp;amp;gbpv=0&#34;&gt;https://www.google.co.uk/books/edition/Disputationum_Roberti_Bellarmini_politan/bKZZAAAAMAAJ?hl=en&amp;amp;gbpv=0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The relevant paragraph:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Diximus de auctoritate conciliorum absolute considerata;nunc de eadem dicendum est per comparationem ad alia fidei principia, idest, ad verbum Dei scriptum (nam de traditionibus eadem est ratio), et ad pontificem. Et quidem haeretici hujus temporis passim clamant, nos subjicere Scripturam conciliis. Calvinus lib. 4. instit.cap. 9. §14. &lt;strong&gt;Subjicere in eum modum,&lt;/strong&gt; inquit, &lt;strong&gt;Dei oracula hominum censurae, ut ideo rata sint, quia placuerint hominibus, blasphemia est indigna, quae commemoretur.&lt;/strong&gt; Similia apud alios passim inveniuntur. Caeterum haec non nostra blasphemia, sed ipsorum impostura est. Catholici enim Scripturam sacram non subjiciunt, sed anteponunt conciliis; neque in hoc ulla controversia est. Quod si interdum catholici aliqui dicunt, Scripturam pendere ab Ecclesia, sive a concilio, non intelligunt quoad auctoritatem, et secundum se, sed quoad explicationem, et quoad nos.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And the Bibtex for the more orderly among us:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;@inbook{bellarmino1858disputationum,
+  title={De Conciliorum Auctoritate},
+  volume={2},
+  chapter={2.12}, % I.e. book 2, chapter 12.
+  page={61},
+  author={Bellarmino, R.F.R.},
+  series={Opera Omnia},
+  url={https://books.google.co.uk/books?id=bKZZAAAAMAAJ},
+  year={1858},
+  publisher={Edente Natale Battezzati}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The 1679 edition gives no page number so the editor clearly looked the reference up properly:&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bell.&lt;/em&gt; li. 2. de Concil. c. 12&lt;/p&gt;
+&lt;p&gt;Perhaps the 1857 edition, which I cant find, misprints the title of book 2, and was fixed in 1858.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.co.uk/books/edition/Institutio_theologiae_elencticae/jK8WAAAAQAAJ?hl=en&amp;amp;gbpv=0&#34;&gt;https://www.google.co.uk/books/edition/Institutio_theologiae_elencticae/jK8WAAAAQAAJ?hl=en&amp;amp;gbpv=0&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
+
