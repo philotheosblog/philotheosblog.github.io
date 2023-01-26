@@ -6,22 +6,11 @@
     <description>Recent content in Tags on Philotheos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 23:35:37 +0000</lastBuildDate><atom:link href="https://philotheos.de/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Junius</title>
-      <link>https://philotheos.de/tags/junius/</link>
-      <pubDate>Sun, 01 Jan 2023 23:35:37 +0000</pubDate>
-      
-      <guid>https://philotheos.de/tags/junius/</guid>
-      
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Sat, 21 Jan 2023 22:43:25 +0000</lastBuildDate><atom:link href="https://philotheos.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Latine</title>
       <link>https://philotheos.de/tags/latine/</link>
-      <pubDate>Sun, 01 Jan 2023 23:35:37 +0000</pubDate>
+      <pubDate>Sat, 21 Jan 2023 22:43:25 +0000</pubDate>
       
       <guid>https://philotheos.de/tags/latine/</guid>
       
@@ -30,11 +19,44 @@
     </item>
     
     <item>
+      <title>Preaching</title>
+      <link>https://philotheos.de/tags/preaching/</link>
+      <pubDate>Sat, 21 Jan 2023 22:43:25 +0000</pubDate>
+      
+      <guid>https://philotheos.de/tags/preaching/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sacraments</title>
+      <link>https://philotheos.de/tags/sacraments/</link>
+      <pubDate>Sat, 21 Jan 2023 22:43:25 +0000</pubDate>
+      
+      <guid>https://philotheos.de/tags/sacraments/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Theology</title>
       <link>https://philotheos.de/tags/theology/</link>
-      <pubDate>Sun, 01 Jan 2023 23:35:37 +0000</pubDate>
+      <pubDate>Sat, 21 Jan 2023 22:43:25 +0000</pubDate>
       
       <guid>https://philotheos.de/tags/theology/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Junius</title>
+      <link>https://philotheos.de/tags/junius/</link>
+      <pubDate>Sun, 01 Jan 2023 23:35:37 +0000</pubDate>
+      
+      <guid>https://philotheos.de/tags/junius/</guid>
       
       <description></description>
       
@@ -255,17 +277,6 @@
       <pubDate>Thu, 08 Apr 2021 08:50:00 +0000</pubDate>
       
       <guid>https://philotheos.de/tags/fasting/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Preaching</title>
-      <link>https://philotheos.de/tags/preaching/</link>
-      <pubDate>Sat, 03 Apr 2021 13:50:00 +0000</pubDate>
-      
-      <guid>https://philotheos.de/tags/preaching/</guid>
       
       <description></description>
       

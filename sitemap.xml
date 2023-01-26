@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://philotheos.de/tags/junius/</loc>
-    <lastmod>2023-01-01T23:35:37+00:00</lastmod>
-  </url><url>
     <loc>https://philotheos.de/tags/latine/</loc>
-    <lastmod>2023-01-01T23:35:37+00:00</lastmod>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/</loc>
-    <lastmod>2023-01-01T23:35:37+00:00</lastmod>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/preaching/</loc>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/sacraments/</loc>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/tags/</loc>
-    <lastmod>2023-01-01T23:35:37+00:00</lastmod>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/tags/theology/</loc>
-    <lastmod>2023-01-01T23:35:37+00:00</lastmod>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/thoughts/</loc>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/thoughts/utrum-verbum-praedicatum-sacramentum-sit/</loc>
+    <lastmod>2023-01-21T22:43:25+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/junius/</loc>
     <lastmod>2023-01-01T23:35:37+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/thoughts/finis-ultimus-verae-theologiae/</loc>
@@ -108,9 +117,6 @@
     <lastmod>2021-04-08T08:50:00+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/thoughts/notes-on-illustration-in-preaching/</loc>
-    <lastmod>2021-04-03T13:50:00+00:00</lastmod>
-  </url><url>
-    <loc>https://philotheos.de/tags/preaching/</loc>
     <lastmod>2021-04-03T13:50:00+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/tags/seminar-notes/</loc>
