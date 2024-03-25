@@ -2,34 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://philotheos.de/tags/anglicanism/</loc>
-    <lastmod>2023-02-24T17:01:09+00:00</lastmod>
-  </url><url>
     <loc>https://philotheos.de/tags/baptism/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/historical-theology/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/index/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/tertullian/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/thoughts/tertullian-on-baptismal-deferment/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/thoughts/</loc>
+    <lastmod>2024-03-25T14:21:09+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/thoughts/reading-list-2023/</loc>
+    <lastmod>2023-12-20T16:04:12+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/thoughts/eliakim-typology-historical-references/</loc>
+    <lastmod>2023-11-21T13:22:19+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/roman-catholicism/</loc>
+    <lastmod>2023-11-21T13:22:19+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/typology/</loc>
+    <lastmod>2023-11-21T13:22:19+00:00</lastmod>
+  </url><url>
+    <loc>https://philotheos.de/tags/anglicanism/</loc>
     <lastmod>2023-02-24T17:01:09+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/tags/ecclesia-anglicana/</loc>
     <lastmod>2023-02-24T17:01:09+00:00</lastmod>
   </url><url>
-    <loc>https://philotheos.de/</loc>
-    <lastmod>2023-02-24T17:01:09+00:00</lastmod>
-  </url><url>
-    <loc>https://philotheos.de/tags/</loc>
-    <lastmod>2023-02-24T17:01:09+00:00</lastmod>
-  </url><url>
     <loc>https://philotheos.de/thoughts/the-problem-of-dipping-infants-anglicanism/</loc>
     <lastmod>2023-02-24T17:01:09+00:00</lastmod>
   </url><url>
-    <loc>https://philotheos.de/thoughts/</loc>
-    <lastmod>2023-02-24T17:01:09+00:00</lastmod>
-  </url><url>
     <loc>https://philotheos.de/tags/bellarminus/</loc>
-    <lastmod>2023-02-23T22:50:23+00:00</lastmod>
-  </url><url>
-    <loc>https://philotheos.de/tags/historical-theology/</loc>
-    <lastmod>2023-02-23T22:50:23+00:00</lastmod>
-  </url><url>
-    <loc>https://philotheos.de/tags/roman-catholicism/</loc>
     <lastmod>2023-02-23T22:50:23+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/thoughts/the-worst-protestant-heresy-bellarmine-vs-ferguson/</loc>
@@ -147,7 +165,5 @@
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://philotheos.de/categories/</loc>
-  </url><url>
-    <loc>https://philotheos.de/tags/index/</loc>
   </url>
 </urlset>
